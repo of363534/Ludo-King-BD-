@@ -1,0 +1,10 @@
+{
+  "name": "Ludo Game BD",
+  "short_name": "Ludo BD",
+  "description": "A simple online Ludo game",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait"
+}
